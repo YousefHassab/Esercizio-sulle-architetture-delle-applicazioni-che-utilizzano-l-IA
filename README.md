@@ -1,0 +1,1 @@
+# Esercizio-sulle-architetture-delle-applicazioni-che-utilizzano-l-IA
